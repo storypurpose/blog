@@ -2,6 +2,7 @@
 @import '../../../assets/scss/mixins';
 
 .copyright {
+  margin-top: 4pt;
   color: lighten($color-gray, 18%);
   font-size: $typographic-small-font-size;
 }

@@ -1,13 +1,20 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/home-jumbotron.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+A free jira issue visualization and storyboarding tool.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+StoryPurpose enables visualizing the smallest unit of deliverable (user story) in the bigger scheme of things.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![StoryPurpose enables visualizing the smallest unit of deliverable (user story) in the bigger scheme of things.](/media/home-jumbotron.jpg)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+
+As software continues to eat the world, organizations are undergoing digital transformation. In doing so, it becomes extremely important to ensure every effort put in digital adoption is eventually aligned with the organization's bigger purpose.
+
+
+__Designed by scrum team, for scrum teams.__
+
+As the backlog and the team size grows, it becomes difficult to track story breakup and prioritization. StoryPurpose provides fundamental tools to get a high level perspective of the story and how it aligns back to epic, team goals, initiative purpose, project purpose which in turn should align back to overal organization mission.
+

@@ -11,14 +11,17 @@
 
 @include breakpoint-sm {
     .sidebar {
+        position: sticky;
+        top: 0;
+        background-color: #f8f8f8;
         lost-column: 5/12;
         &__inner {
             padding: 30px 20px 0;
             &:after {
                 background: $color-gray-border;
-                background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
+                // background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
                 position: absolute;
-                content: '';
+                // content: '';
                 width: 1px;
                 height: 540px;
                 top: 30px;

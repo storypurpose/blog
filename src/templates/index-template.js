@@ -40,7 +40,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
           hasNextPage={hasNextPage}
         />
       </Page>
-      <Sidebar isIndex />
+      <Sidebar />
     </Layout>
   );
 };
