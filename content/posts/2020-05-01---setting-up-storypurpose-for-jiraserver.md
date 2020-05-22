@@ -8,14 +8,33 @@ category: "App"
 tags:
   - "Setup"
   - "Help"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/setup-jiraserver.gif"
+description: "StoryPurpose is a jira issue visualization tool. Find instructions to configure jira connection details in this blog post. The current version of the tool support jira server and jira cloud configuration."
+socialImage: "/media/jira-manual-setup.gif"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+StoryPurpose is a jira issue visualization tool. The current version supports classic projects or in Jira Server or Data Center products.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/setup-jiraserver.gif)
+This is not applicable for [next-gen projects](https://confluence.atlassian.com/jirasoftwarecloud/working-with-agility-boards-945104895.html)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+![manual setup for jira classic projects](/media/jira-manual-setup.gif)
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Depending upon the jira setup in your organization, instructions vary for entering the credentials
+Clicking on manual setup opens popup to enter connection details.
+
+## Manual setup for jira server 
+1. Select Jira server
+2. Enter the jira url (this is the same url you use to access jira in your organization)
+3. Enter your organization username
+4. Enter your organization password
+5. "Verify and save" will cache your credentials in the browser for that session.
+
+## Manual setup for jira cloud 
+### Pre-requisite
+Make sure you have generated the API Token before hand. For instructions [see here](https://confluence.atlassian.com/cloud/api-tokens-938839638.html)
+2. Select Jira server
+3. Enter the jira url (this is the same url you use to access jira in your organization)
+4. Enter your organization username
+5. Enter your organization password
+6. "Verify and save" will cache your credentials in the browser for that session.
+
+Now for all subsequent sessions, you will only need to enter the credentials to proceed.
