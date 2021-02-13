@@ -16,7 +16,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/adhamankar/storypurposeblog",
+  "repository": "https://github.com/storypurpose/blog",
   "author": "Abhijeet Dhamankar <adhamankar@gmail.com>",
   "license": "MIT",
   "keywords": [

@@ -22,7 +22,7 @@ This post details out
 Once the project configuration is complete, you can access the export menu from right-top toolbox.
 Selecting the export configuration presents below options.
 
-![Export configurations](/media/export-configurations.png)
+![Export configurations](/blog/media/export-configurations.png)
 
 Choose the data you want to export and click the confirm button and download the configuration file.
 
@@ -33,7 +33,7 @@ Importing configuration is available in 2 cases.
 1. On first login when no customization is done
 2. Any time while using the application from right-top toolbar
 
-![Import configurations](/media/import-configurations.png)
+![Import configurations](/blog/media/import-configurations.png)
 
 Based on the content of the file being imported, user has a choice to import selected configurations or all configurations.
 Selecting the sections and click the Load button imports the configurations and customizes the StoryPurpose setup accordingly.

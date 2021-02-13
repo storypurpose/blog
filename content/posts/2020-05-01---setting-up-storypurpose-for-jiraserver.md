@@ -9,14 +9,14 @@ tags:
   - "Setup"
   - "Help"
 description: "StoryPurpose is a jira issue visualization tool. Find instructions to configure jira connection details in this blog post. The current version of the tool support jira server and jira cloud configuration."
-socialImage: "/media/jira-manual-setup.gif"
+socialImage: "/blog/media/jira-manual-setup.gif"
 ---
 
 StoryPurpose is a jira issue visualization tool. The current version supports classic projects or in Jira Server or Data Center products.
 
 This is not applicable for [next-gen projects](https://confluence.atlassian.com/jirasoftwarecloud/working-with-agility-boards-945104895.html)
 
-![manual setup for jira classic projects](/media/jira-manual-setup.gif)
+![manual setup for jira classic projects](/blog/media/jira-manual-setup.gif)
 
 Depending upon the jira setup in your organization, instructions vary for entering the credentials
 Clicking on manual setup opens popup to enter connection details.

@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.storypurpose.info',
+  url: 'https://storypurpose.github.io',
   getStartedUrl: 'https://app.storypurpose.info',
-  pathPrefix: '/',
+  pathPrefix: '/blog',
   title: 'Storypurpose blog',
   subtitle: 'Ensure every story\'s purpose aligns with that of organization.',
   copyright: '© AD 2020',

@@ -15,11 +15,11 @@ StoryPurpose can fetch additional information from custom fields to give a bette
 
 When any issue is loaded and the related project is not configured earlier, a "Configure now" button is visible in the top menu, clicking on which project configuration section is visible.
 
-![Configure new project](/media/configure-new-project.png)
+![Configure new project](/blog/media/configure-new-project.png)
 
 You can configure project later by dismissing the above notification. 
 
-![Configure existing project](/media/configure-existing-project.png)
+![Configure existing project](/blog/media/configure-existing-project.png)
 
 Following sections provides details of project configuration. There are primarily 3 sections
 
@@ -38,7 +38,7 @@ This hierarchy can further be extended by configuring hierarchy fields. For exam
 
 Once configured, the field then appears in the hierarchy of an issue.
 
-![view configured herarchical field](/media/view-herarchical-field.png)
+![view configured herarchical field](/blog/media/view-herarchical-field.png)
 
 The same hierarchy is then visible on the Purpose section on the details view of the selected issue in the right pane.
 
@@ -51,7 +51,7 @@ This is done by following the below steps
 2. Under _Standard issue types_ section, select the appropriate issue type
 3. Selected one or more custom fields that you want to view information for
 
-![standard issue type configuration](/media/standard-issuetype-config.png)
+![standard issue type configuration](/blog/media/standard-issuetype-config.png)
 
 The configured custom fields are now available on the workbench section.
 
@@ -71,4 +71,4 @@ Consider following setup
 
 With the above configuration, it then becomes very easy to navigate through all testcases in a testsuite and review details in a single view as against opening multiple tabs otherwise.
 
-![view subtask field](/media/view-subtask-field.png)
+![view subtask field](/blog/media/view-subtask-field.png)
