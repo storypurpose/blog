@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://storypurpose.github.io',
-  getStartedUrl: 'https://app.storypurpose.info',
+  getStartedUrl: 'https://storypurpose.github.io/app',
   pathPrefix: '/blog',
   title: 'Storypurpose blog',
   subtitle: 'Ensure every story\'s purpose aligns with that of organization.',
