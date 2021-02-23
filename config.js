@@ -29,7 +29,7 @@ module.exports = {
       email: 'adhamankar@gmail.com',
       facebook: 'Storypurpose-101985351530587',
       twitter: 'story_purpose',
-      github: 'https://github.com/adhamankar/storypurpose',
+      github: 'https://github.com/storypurpose/blog',
       linkedin: '',
       youtube: ''
     }
